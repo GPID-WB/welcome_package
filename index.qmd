@@ -26,7 +26,19 @@ Ideally, you should get familiar with all the resources and information below, b
 
 2.  [Advanced R](https://adv-r.hadley.nz/)  by Wikham. Chapters 1-9, 12-13, 17-20.
 
-3.   [R for Data Science](https://r4ds.hadley.nz/) by Wikham (Read the whole book)
+3.  [R for Data Science](https://r4ds.hadley.nz/) by Wikham (Read the whole book)
+
+4.  Basic of Git. At least one of the following
+
+    4.1. [Getting Git right](https://www.atlassian.com/git) by Atlassian
+
+    4.2. [Happy Git and Github for the useR](https://happygitwithr.com/) by Bryan.
+
+Most of us use [SmartGit](https://www.syntevo.com/smartgit/) as our Git client. If you use something different, it is ok. What matters is that you clearly understand the most important Git concepts.
+
+5.  [PIP Manual](https://pip-technical-team.github.io/PIPmanual/)
+
+6.  [PovcalNet Internal Guidelines](https://povcalnet-team.github.io/Povcalnet_internal_guidelines/) (This source has some outdated information but most of it is still very useful).
 
 ## Analytic Resources
 
@@ -40,11 +52,11 @@ Ideally, you should get familiar with all the resources and information below, b
 
 ## Github repos to get familiar
 
-1.  [pipapi](https://github.com/PIP-Technical-Team/pipapi/tree/dev) is the R package that controls and creates the [PIP API](https://pip.worldbank.org/api). Notice that I am redirecting you to the \"dev\" branch.
+1.  [pipapi](https://github.com/PIP-Technical-Team/pipapi/tree/dev) is the R package that controls and creates the [PIP API](https://pip.worldbank.org/api). Notice that I am redirecting you to the "dev" branch.
 
 2.  R client for the PIP API, [pipr](https://github.com/worldbank/pipr).
 
-3.  Stata client for the PIP API, [pip](https://github.com/worldbank/pip/tree/ongoing) (\"ongoing\" branch).
+3.  Stata client for the PIP API, [pip](https://github.com/worldbank/pip/tree/ongoing) ("ongoing" branch).
 
 4.  [wbpip](https://github.com/PIP-Technical-Team/wbpip)  is the package that contains the underlying estimations of the PIP API. Basically, pipapi makes use of wbpip.
 
