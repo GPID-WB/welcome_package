@@ -1,0 +1,49 @@
+---
+title: "GPID team welcome package"
+author: 
+  - Global Poverty and Inequality Data Team
+  - The World Bank
+---
+
+# Welcome!
+
+We are thrilled to welcome you to our team, where we are dedicated to tackling some of the most pressing global challenges of our time, including poverty, inequality, and shared prosperity. We believe that understanding and addressing these issues is crucial for creating a more just and equitable world for all.
+
+Our team comprises highly motivated, hardworking, and intelligent members who share a deep passion for making a positive impact on the world. We are driven by a collective commitment to excellence, striving to produce high-quality work that has a tangible impact on the lives of people around the globe.
+
+We firmly believe that collaboration and open communication are the cornerstones of success. We encourage our team members to share their ideas, challenge assumptions, and explore diverse perspectives. We also foster a culture of constructive feedback, where colleagues provide valuable insights to help each other grow and improve.
+
+We are committed to providing our team members with the resources and support they need to thrive, learn, and grow professionally. This welcome package will equip you with the necessary information to hit ground running.
+
+# Before you start
+
+Ideally, you should get familiar with all the resources and information below, but get familiar first with those that your Team Task Leader (TTL) requested.
+
+## Technical Resources
+
+1.  [R Packages (2e)](https://r-pkgs.org/) by Wickham and Bryan (Read the whole book)
+
+2.  [Advanced R](https://adv-r.hadley.nz/)  by Wikham. Chapters 1-9, 12-13, 17-20.
+
+3.   [R for Data Science](https://r4ds.hadley.nz/) by Wikham (Read the whole book)
+
+## Analytic Resources
+
+1.  Get familiar with our webpage, PIP: <https://pip.worldbank.org/>.
+
+2.  [PIP Methodology Handbook](https://datanalytics.worldbank.org/PIP-Methodology/) (read the whole book)
+
+## Github repos to get familiar
+
+1.  [pipapi](https://github.com/PIP-Technical-Team/pipapi/tree/dev) is the R package that controls and creates the [PIP API](https://pip.worldbank.org/api). Notice that I am redirecting you to the \"dev\" branch.
+
+2.  R client for the PIP API, [pipr](https://github.com/worldbank/pipr).
+
+3.  Stata client for the PIP API, [pip](https://github.com/worldbank/pip/tree/ongoing) (\"ongoing\" branch).
+
+4.  [wbpip](https://github.com/PIP-Technical-Team/wbpip)  is the package that contains the underlying estimations of the PIP API. Basically, pipapi makes use of wbpip.
+
+# Things to do
+
+1.  Make sure you have a Github account. Send the username to acastanedaa\@worldbank.org
+2.  
