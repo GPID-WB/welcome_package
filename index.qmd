@@ -32,9 +32,11 @@ Ideally, you should get familiar with all the resources and information below, b
 
 1.  Get familiar with our webpage, PIP: <https://pip.worldbank.org/>.
 
-2.  [PIP Methodology Handbook](https://datanalytics.worldbank.org/PIP-Methodology/) (read the whole book)
+2.  [PIP Methodology Handbook](https://datanalytics.worldbank.org/PIP-Methodology/) (read the whole book).
 
-3.  Access and use of poverty and inequality [Cheat Sheet](https://worldbankgroup.sharepoint.com/:b:/r/sites/WBPoverty/SiteAssets/SitePages/D4G%20Overview-1652382371342/Cheat-Sheet-Internal.pdf?csf=1&web=1&e=W6z90C).
+3.  Poverty and Shared Prosperity Report 2022: Correcting Course ([PSPR](https://www.worldbank.org/en/publication/poverty-and-shared-prosperity)) (Read at least Part 1)
+
+4.  Access and use of poverty and inequality data [Cheat Sheet](https://worldbankgroup.sharepoint.com/:b:/r/sites/WBPoverty/SiteAssets/SitePages/D4G%20Overview-1652382371342/Cheat-Sheet-Internal.pdf?csf=1&web=1&e=W6z90C).
 
 ## Github repos to get familiar
 
@@ -49,4 +51,4 @@ Ideally, you should get familiar with all the resources and information below, b
 # Things to do
 
 1.  Make sure you have a Github account. Send the username to acastanedaa\@worldbank.org
-2.  
+2.  Get familiar with the [STC information portal](https://worldbankgroup.sharepoint.com/:u:/r/sites/myhr/SitePages/PublishingPages/ST-Information-Portal-03302020-172202.aspx?csf=1&web=1&e=Cv1bFZ) (internal only).
