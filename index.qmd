@@ -2,6 +2,7 @@
 title: "GPID team welcome package"
 author: 
   - Global Poverty and Inequality Data Team
+  - DECIS
   - The World Bank
 ---
 
