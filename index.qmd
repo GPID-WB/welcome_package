@@ -24,9 +24,9 @@ Ideally, you should get familiar with all the resources and information below, b
 
 1.  [R Packages (2e)](https://r-pkgs.org/) by Wickham and Bryan (Read the whole book)
 
-2.  [Advanced R](https://adv-r.hadley.nz/)  by Wikham. Chapters 1-9, 12-13, 17-20.
+2.  [R for Data Science](https://r4ds.hadley.nz/) by Wikham (Read the whole book)
 
-3.  [R for Data Science](https://r4ds.hadley.nz/) by Wikham (Read the whole book)
+3.  [Advanced R](https://adv-r.hadley.nz/)  by Wikham. Chapters 1-9, 12-13, 17-20.
 
 4.  Basic of Git. At least one of the following
 
