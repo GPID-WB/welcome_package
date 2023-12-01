@@ -34,6 +34,8 @@ Ideally, you should get familiar with all the resources and information below, b
 
 2.  [PIP Methodology Handbook](https://datanalytics.worldbank.org/PIP-Methodology/) (read the whole book)
 
+3.  Access and use of poverty and inequality [Cheat Sheet](https://worldbankgroup.sharepoint.com/:b:/r/sites/WBPoverty/SiteAssets/SitePages/D4G%20Overview-1652382371342/Cheat-Sheet-Internal.pdf?csf=1&web=1&e=W6z90C).
+
 ## Github repos to get familiar
 
 1.  [pipapi](https://github.com/PIP-Technical-Team/pipapi/tree/dev) is the R package that controls and creates the [PIP API](https://pip.worldbank.org/api). Notice that I am redirecting you to the \"dev\" branch.
