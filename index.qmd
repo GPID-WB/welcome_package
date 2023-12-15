@@ -63,4 +63,18 @@ Most of us use [SmartGit](https://www.syntevo.com/smartgit/) as our Git client. 
 # Things to do
 
 1.  Make sure you have a Github account. Send the username to acastanedaa\@worldbank.org
-2.  Get familiar with the [STC information portal](https://worldbankgroup.sharepoint.com/:u:/r/sites/myhr/SitePages/PublishingPages/ST-Information-Portal-03302020-172202.aspx?csf=1&web=1&e=Cv1bFZ) (internal only).
+2.  Once you get your World Bank email account, Open a free account in [ClickUp.com](https://clickup.com/) and send your username to acastanedaa\@worldbank.org.
+3.  Get familiar with ClickUp. There are tons of information in YouTube, blogs or even [clickup help docs](https://help.clickup.com/hc/en-us).
+4.  Once you get your WB laptop, make sure to install the following software. Most of them are available in Software Center (which you can find installed in your PC) in the Microsoft Store. In case it is not available, You need to contact ITS to install this (MC Building IT Support \<mcbuildingitsupport\@worldbank.org\>).
+    -   Visual Studio Code
+
+        -   Install at least the extension **Git Graph.**
+
+        -   Make sure to link VScode with your Github account
+
+    -   R
+
+    -   Rstudio
+
+    -   [*Rtools 43*](https://cran.r-project.org/bin/windows/Rtools/rtools43/rtools.html).
+5.  Get familiar with the [STC information portal](https://worldbankgroup.sharepoint.com/:u:/r/sites/myhr/SitePages/PublishingPages/ST-Information-Portal-03302020-172202.aspx?csf=1&web=1&e=Cv1bFZ) (internal only).
